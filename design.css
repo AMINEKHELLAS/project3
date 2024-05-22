@@ -1,0 +1,56 @@
+body{
+    background-color: #444;
+    text color: #999;
+    margin: 0px;
+    font-family: Raleway;
+  }
+  img{
+    width: 100%;
+  }
+  h1{
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top:-100px;
+  }
+  h2{
+    color: #fff;
+  }
+  .lead{
+    background-color: yellowgreen;
+    color:#444;
+    border-radius:10px;
+    font-wieght:700;
+    font-size:1.3em;
+    line-height:1.5em;
+    padding:10px;
+    margin-top:-30px;
+  }
+  h1,h2,p{
+    margin:10px;
+  }
+  table{
+    width:92%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  table,th,tr,caption{
+    border: 1px solid #666;
+    border-collapse: collapse;
+  }
+  caption{
+    text-align:center;
+    text-transform:uppercase;
+    font-weight:700;
+    }
+  th{
+    background-color:darkgrey;
+    font color: #666;
+  }
+  footer{
+    text alignment: center;
+    font-size:12px;
+    anchor color: lightBlue;
+  }
+  
